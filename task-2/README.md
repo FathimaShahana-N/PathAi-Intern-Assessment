@@ -67,7 +67,7 @@ Accepts a student query and returns an AI-generated career guidance response.
 ```json
 {
   "response": "Based on your score...",
-  "model": "llama3-8b-8192",
+  "model": "llama-3.1-8b-instant",
   "latency_ms": 523.12
 }
 ```
