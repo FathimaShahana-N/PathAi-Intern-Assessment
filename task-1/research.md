@@ -17,7 +17,7 @@
 
 **Gap 1 — They test students instead of talking to them**
 
-I used these platforms myself or looked at their demos to understand how they work. Here's the main thing that i noticed , Every platform starts with a psychometric form — personality questions, aptitude scores, interest ratings.
+When i go through thaa platforms, the main thing i noticed that, Every platform starts with a psychometric form — personality questions, aptitude scores, interest ratings.
 The student fills it in, gets a report, and that is the end of the conversation. The problem is that a form cannot understand a student. 
 It cannot hear that a student says "I like science" but really means "my father wants me to study medicine and I am scared to say no." A real conversation can catch that. A form never will. 
 Systems like this should have an open dialogue with the student — asking follow-up questions, probing contradictions, listening to what is said and what is not said, before drawing any conclusions.
